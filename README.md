@@ -8,7 +8,7 @@ to install on fedora32:
 
 dnf install fuse fuse-devel
 
-dnf install Algorithm::Diff
+dnf install perl-Algorithm-Diff
 
 dnf install perl-Time-HiRes
 

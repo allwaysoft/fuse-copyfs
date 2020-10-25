@@ -1,4 +1,8 @@
-2020-10-25 change some bug for fedora32
+2020-10-25 
+
+install on fedora32 successfully.
+
+fix some bug for fedora32
 to install on fedora32
 dnf install fuse fuse-devel
 dnf install Algorithm::Diff

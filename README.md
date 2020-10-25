@@ -1,3 +1,11 @@
+2020-10-25 change some bug for fedora32
+to install on fedora32
+dnf install fuse fuse-devel
+dnf install Algorithm::Diff
+dnf install perl-Time-HiRes
+
+-------------------------------------------------------------------------
+
 
       ,ad8888ba,                                      88888888888 ad88888ba
      d8"'    `"8b                                     88         d8"     "8b
